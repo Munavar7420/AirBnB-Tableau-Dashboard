@@ -8,7 +8,7 @@
 <h2>
 <p><img align="left" height=35 width=35 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
 </h2>
-<p><img align="right" height=350 width=450 src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ"/></p>
+<p><img align="right" height=350 width=450 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxczg4a2U2MHh1MjJ5aTVraHk1a3Awc3d4Z3JrYXIwYjg4YjFrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"/></p>
 
 1. Created a histogram to analyze a Gross sales, Discount, Net sales, Cost, Gross Margin.
 
