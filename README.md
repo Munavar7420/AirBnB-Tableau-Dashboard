@@ -10,19 +10,14 @@
 </h2>
 <p><img align="right" height=350 width=450 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxczg4a2U2MHh1MjJ5aTVraHk1a3Awc3d4Z3JrYXIwYjg4YjFrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"/></p>
 
-1. Created a histogram to analyze a Gross sales, Discount, Net sales, Cost, Gross Margin.
+1. Created a bar charts to analyze a top regions bed availability .
 
-2. Created an area chart to analyze GM Trend for every month.
+2. Created a bar charts to analyze a top regions rating-wise.
 
-3. Created two donut charts to analyze discount and gross margin. 
+3. Created line chart to analyze average prices per year. 
 
-4. Created a slicer based on products.
-
-5. Prepared pie charts for net sales for team distribution.
-
-6. Analyzed the top product and top category on yearly and monthly basis.
-
-7. By using the conditional formatting created the data bars for gross sales and Net sales. 
+4. created graphical representation to find average prices based on zipcodes.
+ 
 
 <br>
 <h2>
